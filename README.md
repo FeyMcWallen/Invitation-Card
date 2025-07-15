@@ -1,6 +1,5 @@
 # Invitation-Card
 For discount after click the link 
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
